@@ -1,17 +1,18 @@
-# Lv 的Wav2Lip学习记录
+# Wav2Lip从入门到入土
 
 **Wav2Lip** 是一个基于深度学习的开源项目，主要用于**生成与音频同步的唇形视频**。简单来说，它可以让视频中的人物嘴唇动作与输入的语音完美匹配，常用于修复影视配音口型不同步、制作虚拟人物对话视频等场景。
 
 > ***“Generating accurate lip-sync by learning from a well-trained lip-sync expert."***
 > 
 
-[GitHub - Rudrabha/Wav2Lip: This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs](https://github.com/Rudrabha/Wav2Lip)
+**GitHub**:[GitHub - Rudrabha/Wav2Lip: This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs](https://github.com/Rudrabha/Wav2Lip)
 
 ---
 
 # Section 1. 论文阅读
 
-[A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/abs/2008.10010)
+**论文链接：**[A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/abs/2008.10010)
+看不懂英文可以上传到豆包，可以左边解释右边译文，非常的方便。
 
 ## 1.1  模型背景
 
